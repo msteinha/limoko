@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "358834824544",
+    "firebase_url": "https://recipes-d6ce7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "recipes-d6ce7",
+    "storage_bucket": "recipes-d6ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358834824544:android:66c48f62b09b993fc52a05",
+        "android_client_info": {
+          "package_name": "com.example.limoko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358834824544-dm60q23ie079imcc8ubu5aru2nuu758n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NIWWSHiC1E4LXFaOzIx3ec7L-P-QCb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358834824544-dm60q23ie079imcc8ubu5aru2nuu758n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358834824544-fpr4iqhrrd935lpalflknfndfb29dm1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recipes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358834824544:android:63ab318136344b97c52a05",
+        "android_client_info": {
+          "package_name": "com.example.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358834824544-dm60q23ie079imcc8ubu5aru2nuu758n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NIWWSHiC1E4LXFaOzIx3ec7L-P-QCb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358834824544-dm60q23ie079imcc8ubu5aru2nuu758n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358834824544-fpr4iqhrrd935lpalflknfndfb29dm1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recipes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
